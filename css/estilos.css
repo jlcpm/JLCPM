@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background: cadetblue;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    text-decoration: none;
+    background-image: url();
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+    color: rgb(12, 12, 12);
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+#noBtn{
+    position: absolute;
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 4em;
+}
